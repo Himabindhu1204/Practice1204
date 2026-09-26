@@ -11,7 +11,7 @@ def add_numbers(a, b):
 
 
 def main():
-    name = input("Enter your name: ")
+    name = input("My name:is Hima ")
     print(greet(name))
 
     num1 = int(input("Enter first number: "))
