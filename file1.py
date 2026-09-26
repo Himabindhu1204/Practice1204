@@ -14,7 +14,7 @@ def main():
     name = input("My name:is Hima ")
     print(greet(name))
 
-    num1 = int(input("Enter first number: "))
+    num1 = int(input("Enter middle number: "))
     num2 = int(input("Enter second number: "))
 
     result = add_numbers(num1, num2)
