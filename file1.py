@@ -1,7 +1,7 @@
 # practice.py
 
 def greet(name):
-    """Return a greeting message."""
+    """Return a greeting aaa message."""
     return f"Hello, {name}! Welcome to GitHub practice."
 
 
